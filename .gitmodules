@@ -1,0 +1,3 @@
+[submodule "SubModuleDependency"]
+	path = SubModuleDependency
+	url = https://github.com/antyrama/SubModuleDependency.git
